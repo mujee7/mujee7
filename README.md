@@ -12,6 +12,7 @@ I focus on crafting solid blockchain solutions that put security, efficiency, an
 - **Upwork:** [muhammadmujtabar2](https://www.upwork.com/freelancers/~muhammadmujtabar2)
 - **Portfolio:** [muhammad-mujtaba-rehman](https://www.muhammad-mujtaba-rehman.com)
 - **LinkedIn:** [Muhammad Mujtaba Rehman](https://www.linkedin.com/in/muhammad-mujtaba-rehman-851b321a7/)
+- **Book A Call:** [Muhammad Mujtaba Rehman](https://cal.com/mujtabaa)
 
 ---
 
