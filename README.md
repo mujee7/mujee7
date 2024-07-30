@@ -1,5 +1,4 @@
 
-
 # Muhammad Mujtaba Rehman - Blockchain Developer
 
 ![Blockchain Developer](https://media.licdn.com/dms/image/D4D16AQG72FMNN5yT0Q/profile-displaybackgroundimage-shrink_350_1400/0/1722261517870?e=1727913600&v=beta&t=TkC4IvDgPlgFPqTEsaTwViA3ubogsxmHH_fIDlEJDbE)
@@ -25,6 +24,10 @@ I focus on crafting solid blockchain solutions that put security, efficiency, an
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### Blockchain Technologies
 - ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -33,12 +36,19 @@ I focus on crafting solid blockchain solutions that put security, efficiency, an
 - ![Ganache](https://img.shields.io/badge/-Ganache-61429B?style=flat-square&logo=ganache&logoColor=white)
 - ![Foundry](https://img.shields.io/badge/-Foundry-8B5D33?style=flat-square&logoColor=white)
 - ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+- ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF8DC?style=flat-square&logo=hardhat&logoColor=black)
+- ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
 
 ### DeFi Protocols
 - ![Uniswap](https://img.shields.io/badge/-Uniswap-FF007A?style=flat-square&logo=uniswap&logoColor=white)
 - ![Balancer](https://img.shields.io/badge/-Balancer-1E1E1E?style=flat-square&logo=balancer&logoColor=white)
 - ![1inch](https://img.shields.io/badge/-1inch-2F2F2F?style=flat-square&logo=1inch&logoColor=white)
 - ![dYdX](https://img.shields.io/badge/-dYdX-010101?style=flat-square&logo=dYdX&logoColor=white)
+- ![Aave](https://img.shields.io/badge/-Aave-B6509E?style=flat-square&logo=aave&logoColor=white)
+- ![Curve](https://img.shields.io/badge/-Curve-F8C300?style=flat-square&logo=curve&logoColor=white)
+- ![SushiSwap](https://img.shields.io/badge/-SushiSwap-F0B3FF?style=flat-square&logo=sushiswap&logoColor=white)
+- ![Compound](https://img.shields.io/badge/-Compound-00D395?style=flat-square&logo=compound&logoColor=white)
+- ![Maker](https://img.shields.io/badge/-Maker-00BB99?style=flat-square&logo=maker&logoColor=white)
 
 ---
 
@@ -93,4 +103,3 @@ I'm always on the lookout for exciting blockchain projects that push the boundar
 ---
 
 Thanks for stopping by my GitHub profile! 🚀
-
