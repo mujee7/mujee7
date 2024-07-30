@@ -1,14 +1,15 @@
 
+
 # Muhammad Mujtaba Rehman - Blockchain Developer
 
-![Blockchain Developer](https://media.licdn.com/dms/image/D4D16AQG72FMNN5yT0Q/profile-displaybackgroundimage-shrink_350_1400/0/1722261517870?e=1727913600&v=beta&t=TkC4IvDgPlgFPqTEsaTwViA3ubogsxmHH_fIDlEJDbE) <!-- Optional: Add a banner image -->
+![Blockchain Developer](https://media.licdn.com/dms/image/D4D16AQG72FMNN5yT0Q/profile-displaybackgroundimage-shrink_350_1400/0/1722261517870?e=1727913600&v=beta&t=TkC4IvDgPlgFPqTEsaTwViA3ubogsxmHH_fIDlEJDbE)
 
-👋 **Welcome to my GitHub!** I'm Muhammad Mujtaba Rehman, a dedicated Blockchain Developer with a strong background in Solidity, smart contract security, and DeFi protocols. My journey in the blockchain space is fueled by a passion for decentralization and innovation.
+👋 **Hey there!** Welcome to my GitHub! I'm Muhammad Mujtaba Rehman, a passionate Blockchain Developer with a knack for Solidity, smart contract security, and DeFi protocols. My adventure in the blockchain universe is driven by a love for decentralization and constant innovation.
 
 ## 🚀 About Me
-I specialize in creating robust blockchain solutions that prioritize security, efficiency, and user experience. From developing smart contracts to auditing and enhancing security measures, my work is driven by a commitment to excellence and a deep understanding of blockchain technology.
+I focus on crafting solid blockchain solutions that put security, efficiency, and user experience front and center. Whether it's developing smart contracts or beefing up security, I'm all about delivering top-notch blockchain tech.
 
-## 🔗 Connect with Me
+## 🔗 Let's Connect
 - **Upwork:** [muhammadmujtabar2](https://www.upwork.com/freelancers/~muhammadmujtabar2)
 - **Portfolio:** [muhammad-mujtaba-rehman](https://www.muhammad-mujtaba-rehman.com)
 - **LinkedIn:** [Muhammad Mujtaba Rehman](https://www.linkedin.com/in/muhammad-mujtaba-rehman-851b321a7/)
@@ -17,18 +18,27 @@ I specialize in creating robust blockchain solutions that prioritize security, e
 
 ## 🛠️ Skills & Tools
 ### Languages & Frameworks
-- JavaScript, React
-- Web3.js, Ethers.js
-- HTML, CSS/Bootstrap
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+- ![Ethers.js](https://img.shields.io/badge/-Ethers.js-282c34?style=flat-square&logo=ethereum&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Blockchain Technologies
-- Solidity, Truffle
-- Ethereum Virtual Machine (EVM), Ganache, Foundry
-- OpenZeppelin security libraries
+- ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+- ![Truffle](https://img.shields.io/badge/-Truffle-5E467C?style=flat-square&logo=truffle&logoColor=white)
+- ![EVM](https://img.shields.io/badge/-EVM-0072CE?style=flat-square&logo=ethereum&logoColor=white)
+- ![Ganache](https://img.shields.io/badge/-Ganache-61429B?style=flat-square&logo=ganache&logoColor=white)
+- ![Foundry](https://img.shields.io/badge/-Foundry-8B5D33?style=flat-square&logoColor=white)
+- ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
 
 ### DeFi Protocols
-- Uniswap V2, Uniswap V3
-- 1inch, Balancer, dYdX
+- ![Uniswap](https://img.shields.io/badge/-Uniswap-FF007A?style=flat-square&logo=uniswap&logoColor=white)
+- ![Balancer](https://img.shields.io/badge/-Balancer-1E1E1E?style=flat-square&logo=balancer&logoColor=white)
+- ![1inch](https://img.shields.io/badge/-1inch-2F2F2F?style=flat-square&logo=1inch&logoColor=white)
+- ![dYdX](https://img.shields.io/badge/-dYdX-010101?style=flat-square&logo=dYdX&logoColor=white)
 
 ---
 
@@ -78,10 +88,9 @@ A decentralized platform utilizing Uniswap V3 principles:
 ---
 
 ## 🌟 Let's Collaborate!
-I'm always excited to work on innovative blockchain projects that push the boundaries of decentralized finance. If you have an idea or project in mind, let's connect and build something amazing together! Feel free to reach out through any of the platforms listed above.
+I'm always on the lookout for exciting blockchain projects that push the boundaries of what's possible in decentralized finance. If you have an idea or a project in mind, let's chat and create something amazing together! Feel free to reach out through any of the platforms listed above.
 
 ---
 
-Thank you for visiting my GitHub profile! 🚀
+Thanks for stopping by my GitHub profile! 🚀
 
-<!-- Optional: Add a footer or additional notes -->
