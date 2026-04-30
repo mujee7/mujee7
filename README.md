@@ -1,5 +1,5 @@
 
-# Muhammad Mujtaba Rehman - Blockchain Developer
+# Muhammad Mujtaba Rehman - Full Stack Developer | AI/ML Integration | SaaS Development | MVP 
 
 ![Blockchain Developer](https://media.licdn.com/dms/image/D4D16AQG72FMNN5yT0Q/profile-displaybackgroundimage-shrink_350_1400/0/1722261517870?e=1727913600&v=beta&t=TkC4IvDgPlgFPqTEsaTwViA3ubogsxmHH_fIDlEJDbE)
 
