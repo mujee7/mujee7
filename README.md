@@ -8,12 +8,6 @@
 ## 🚀 About Me
 I focus on crafting solid blockchain solutions that put security, efficiency, and user experience front and center. Whether it's developing smart contracts or beefing up security, I'm all about delivering top-notch blockchain tech.
 
-## 🔗 Let's Connect
-- **Upwork:** [muhammadmujtabar2](https://www.upwork.com/freelancers/~muhammadmujtabar2)
-- **Portfolio:** [muhammad-mujtaba-rehman](https://www.muhammad-mujtaba-rehman.com)
-- **LinkedIn:** [Muhammad Mujtaba Rehman](https://www.linkedin.com/in/muhammad-mujtaba-rehman-851b321a7/)
-- **Book A Call:** [Muhammad Mujtaba Rehman](https://cal.com/mujtabaa)
-
 ---
 
 ## 🛠️ Skills & Tools
